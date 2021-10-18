@@ -1,5 +1,9 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Html-ffdde1.svg?&style=for-the-badge&logo=Html&logoColor=white"/>
+### 🌱 Hello world 👋
+
+<img src="https://img.shields.io/badge/HTML5-ffdde1.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Css-ee9ca7.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-2C5364.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-bdc3c7.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+
 <!--
 **yiseul10/yiseul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
